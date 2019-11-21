@@ -21,4 +21,4 @@ Autor | Edição | O que mudou?
 :---------: | :------: | :------:
 Luccas Matheus    | 0.0.1 | Primeira Organização do Projeto
 Luccas Matheus    | 0.0.1.1 | Instruções no Markdown de build da aplicação
-
+Luccas Matheus    | 0.1.0  | Adição do Flutter Web no projeto
