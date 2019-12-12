@@ -60,7 +60,7 @@ int main(int argc, char **argv) {
 
   flutter::FlutterWindowController flutter_controller(icu_data_path);
   flutter::WindowProperties window_properties = {};
-  window_properties.title = "Jornal Oficial da UERN";
+  window_properties.title = "NO - Newspaper Oficial";
   window_properties.width = 1280;
   window_properties.height = 720;
 

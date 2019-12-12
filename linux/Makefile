@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Executable name.
-BINARY_NAME=jornal_oficial_da_uern
+BINARY_NAME=NO - Newspaper Oficial
 # Any extra source files to build.
 EXTRA_SOURCES=
 # Paths of any additional libraries to be bundled in the output directory.

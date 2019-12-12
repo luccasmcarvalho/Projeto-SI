@@ -1,13 +1,11 @@
-name: example_flutter
-description: An example project for flutter-desktop-embedding.
+name: no_newspaper_oficial
+description: Trabalho desenvolvido em Sistema de Informação, na UERN.
 
 version: 0.1.0
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
-  # The example interacts with build scripts on the Flutter side that are not
-  # yet stable, so it requires a very recent version of Flutter.
-  # This version will increase regularly as the build scripts change.
+ 
   flutter: '>=1.10.2-pre.54'
 
 dependencies:
